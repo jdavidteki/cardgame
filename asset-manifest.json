@@ -1,0 +1,21 @@
+{
+  "files": {
+    "app.js": "/cardgame/static/js/app.70a504f8.chunk.js",
+    "app.js.map": "/cardgame/static/js/app.70a504f8.chunk.js.map",
+    "runtime~app.js": "/cardgame/static/js/runtime~app.108cf9dd.js",
+    "runtime~app.js.map": "/cardgame/static/js/runtime~app.108cf9dd.js.map",
+    "static/js/2.cf8803ec.chunk.js": "/cardgame/static/js/2.cf8803ec.chunk.js",
+    "static/js/2.cf8803ec.chunk.js.map": "/cardgame/static/js/2.cf8803ec.chunk.js.map",
+    "favicon-16.png": "/cardgame/favicon-16.png",
+    "favicon-32.png": "/cardgame/favicon-32.png",
+    "favicon.ico": "/cardgame/favicon.ico",
+    "index.html": "/cardgame/index.html",
+    "manifest.json": "/cardgame/manifest.json",
+    "serve.json": "/cardgame/serve.json"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.108cf9dd.js",
+    "static/js/2.cf8803ec.chunk.js",
+    "static/js/app.70a504f8.chunk.js"
+  ]
+}
