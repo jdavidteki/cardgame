@@ -1,0 +1,40 @@
+/* smaller screens */
+@media only screen and (max-width: 780px) {
+    .Appointment-item {
+        width: 100%;
+    }
+}
+
+.Main{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.Main-area-container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: 1;
+}
+
+.Main-menu{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Card{
+    width: 30%;
+    height: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+}
+
+.Card-focus{
+    background-color: #8a90ec;
+}
+
+.Card-matched{
+    background-color: #eeb9f5;
+}
